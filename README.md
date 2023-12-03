@@ -1,5 +1,5 @@
 
-## Hey fellow traders, welcome to Prosperse!
+## Welcome to Prosperse!
 ![chrome_g2zZx13g3V](https://user-images.githubusercontent.com/29615807/224507462-081999de-9c3e-458f-89f9-fcf4b8d24998.png)
 
 # Prosperse Mission
@@ -12,3 +12,5 @@ We provide traders methods build custom stock market scanners with no code, whic
 Check out our website, where you can preview our features and launch the app.
 [Prosperse Website](https://prosperse.com)
 
+# Info
+If you want to get in contact with us, you can email us at business@prosperse.com
